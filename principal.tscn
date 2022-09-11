@@ -199,16 +199,16 @@ scale = Vector2( 0.12732, 0.112852 )
 script = ExtResource( 4 )
 
 [node name="col_personagem" type="CollisionShape2D" parent="personagem"]
-position = Vector2( 290.246, 402.167 )
+position = Vector2( 643.686, 694.585 )
 shape = SubResource( 4 )
 
 [node name="personagem_spr" type="Sprite" parent="personagem"]
-position = Vector2( 261.012, 392.318 )
+position = Vector2( 614.452, 684.736 )
 scale = Vector2( 0.67672, 0.67672 )
 texture = ExtResource( 3 )
 
 [node name="Area2D" type="Area2D" parent="personagem"]
-position = Vector2( 253.157, 330.289 )
+position = Vector2( 606.597, 622.707 )
 collision_layer = 4
 collision_mask = 4
 
